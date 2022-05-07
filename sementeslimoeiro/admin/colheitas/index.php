@@ -6,7 +6,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="ThemeMakker">
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
-	<title>Sementes Limoeiros</title>
+	<title>Sementes Limoeiro</title>
 	<link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css">
 	<link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css">
 	<link rel="stylesheet" href="../assets/vendor/jquery-datatable/dataTables.bootstrap4.min.css">
