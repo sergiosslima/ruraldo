@@ -108,8 +108,9 @@
                     </div>
                 </div>
                 <ul id="main-menu" class="metismenu">
+					<li class="g_heading">Soja</li>
                     <li class="active">
-                        <a href="javascript:void(0)" class="has-arrow"><i class="ti-view-list"></i><span>Dados</span></a>
+                        <a href="javascript:void(0)" class="has-arrow"><i class="ti-view-list"></i><span>Safra 2021/2022</span></a>
                         <ul>
                             <li class="active"><a href="../colheitas/">Colheita</a></li>
                             <li><a href="../beneficiamentos/">Beneficiamento</a></li>
@@ -469,10 +470,10 @@
 												<td>TMG 2383 IPRO</td>
 												<td align="center">S1</td>
 												<td>28/03/2022</td>
-												<td>18.260</td>
-												<td>11.420</td>
-												<td>6.840</td>
-												<td>11.6%</td>
+												<td align="right">18.260</td>
+												<td align="right">11.420</td>
+												<td align="right">6.840</td>
+												<td align="center">11.6%</td>
 												<td>Caçamba azul</td>
 												<td>&nbsp;</td>
 												<td>Industria</td>
@@ -483,10 +484,10 @@
 												<td>TMG 2383 IPRO</td>
 												<td align="center">S1</td>
 												<td>28/03/2022</td>
-												<td>12.420</td>
-												<td>11.320</td>
-												<td>1.100</td>
-												<td>11.6%</td>
+												<td align="right">12.420</td>
+												<td align="right">11.320</td>
+												<td align="right">1.100</td>
+												<td align="center">11.6%</td>
 												<td>Caçamba azul</td>
 												<td>&nbsp;</td>
 												<td>Industria</td>
@@ -497,10 +498,10 @@
 												<td>TMG 2383 IPRO</td>
 												<td align="center">S1</td>
 												<td>30/03/2022</td>
-												<td>15.700</td>
-												<td>11.280</td>
-												<td>4.420</td>
-												<td>11.6%</td>
+												<td align="right">15.700</td>
+												<td align="right">11.280</td>
+												<td align="right">4.420</td>
+												<td align="center">11.6%</td>
 												<td>Caçamba azul</td>
 												<td>&nbsp;</td>
 												<td>Industria</td>
@@ -511,10 +512,10 @@
 												<td>TMG 2383 IPRO</td>
 												<td align="center">S1</td>
 												<td>30/03/2022</td>
-												<td>26.340</td>
-												<td>9.390</td>
-												<td>16.950</td>
-												<td>11.6%</td>
+												<td align="right">26.340</td>
+												<td align="right">9.390</td>
+												<td align="right">16.950</td>
+												<td align="center">11.6%</td>
 												<td>Leonardo</td>
 												<td>&nbsp;</td>
 												<td>Semente</td>
@@ -525,10 +526,10 @@
 												<td>TMG 2383 IPRO</td>
 												<td align="center">S1</td>
 												<td>30/03/2022</td>
-												<td>24.750</td>
-												<td>9.390</td>
-												<td>15.360</td>
-												<td>11.6%</td>
+												<td align="right">24.750</td>
+												<td align="right">9.390</td>
+												<td align="right">15.360</td>
+												<td align="center">11.6%</td>
 												<td>Leonardo</td>
 												<td>&nbsp;</td>
 												<td>Semente</td>
@@ -539,10 +540,10 @@
 												<td>TMG 2383 IPRO</td>
 												<td align="center">S1</td>
 												<td>30/03/2022</td>
-												<td>24.070</td>
-												<td>9.370</td>
-												<td>14.700</td>
-												<td>11.2%</td>
+												<td align="right">24.070</td>
+												<td align="right">9.370</td>
+												<td align="right">14.700</td>
+												<td align="center">11.2%</td>
 												<td>Leonardo</td>
 												<td>&nbsp;</td>
 												<td>Semente</td>
@@ -553,10 +554,10 @@
 												<td>TMG 2383 IPRO</td>
 												<td align="center">S1</td>
 												<td>30/03/2022</td>
-												<td>22.240</td>
-												<td>9.370</td>
-												<td>12.870</td>
-												<td>11.2%</td>
+												<td align="right">22.240</td>
+												<td align="right">9.370</td>
+												<td align="right">12.870</td>
+												<td align="center">11.2%</td>
 												<td>Leonardo</td>
 												<td>&nbsp;</td>
 												<td>Semente</td>
@@ -567,10 +568,10 @@
 												<td>TMG 2383 IPRO</td>
 												<td align="center">S1</td>
 												<td>30/03/2022</td>
-												<td>24.600</td>
-												<td>9.370</td>
-												<td>15.230</td>
-												<td>12.7%</td>
+												<td align="right">24.600</td>
+												<td align="right">9.370</td>
+												<td align="right">15.230</td>
+												<td align="center">12.7%</td>
 												<td>Leonardo</td>
 												<td>&nbsp;</td>
 												<td>Semente</td>
@@ -581,10 +582,10 @@
 												<td>TMG 2383 IPRO</td>
 												<td align="center">S1</td>
 												<td>30/03/2022</td>
-												<td>25.600</td>
-												<td>9.370</td>
-												<td>16.230</td>
-												<td>12.7%</td>
+												<td align="right">25.600</td>
+												<td align="right">9.370</td>
+												<td align="right">16.230</td>
+												<td align="center">12.7%</td>
 												<td>Leonardo</td>
 												<td>&nbsp;</td>
 												<td>Semente</td>
@@ -595,10 +596,10 @@
 												<td>TMG 2383 IPRO</td>
 												<td align="center">S1</td>
 												<td>30/03/2022</td>
-												<td>25.140</td>
-												<td>9.370</td>
-												<td>15.770</td>
-												<td>12.7%</td>
+												<td align="right">25.140</td>
+												<td align="right">9.370</td>
+												<td align="right">15.770</td>
+												<td align="center">12.7%</td>
 												<td>Leonardo</td>
 												<td>&nbsp;</td>
 												<td>Semente</td>
@@ -609,10 +610,10 @@
 												<td>TMG 2383 IPRO</td>
 												<td align="center">S1</td>
 												<td>30/03/2022</td>
-												<td>25.120</td>
-												<td>9.370</td>
-												<td>15.750</td>
-												<td>12.7%</td>
+												<td align="right">25.120</td>
+												<td align="right">9.370</td>
+												<td align="right">15.750</td>
+												<td align="center">12.7%</td>
 												<td>Leonardo</td>
 												<td>&nbsp;</td>
 												<td>Semente</td>
@@ -623,10 +624,10 @@
 												<td>TMG 2383 IPRO</td>
 												<td align="center">S1</td>
 												<td>30/03/2022</td>
-												<td>26.130</td>
-												<td>9.370</td>
-												<td>16.760</td>
-												<td>12.7%</td>
+												<td align="right">26.130</td>
+												<td align="right">9.370</td>
+												<td align="right">16.760</td>
+												<td align="center">12.7%</td>
 												<td>Leonardo</td>
 												<td>&nbsp;</td>
 												<td>Semente</td>
@@ -637,10 +638,10 @@
 												<td>TMG 2383 IPRO</td>
 												<td align="center">S1</td>
 												<td>30/03/2022</td>
-												<td>26.270</td>
-												<td>9.370</td>
-												<td>16.900</td>
-												<td>10.1%</td>
+												<td align="right">26.270</td>
+												<td align="right">9.370</td>
+												<td align="right">16.900</td>
+												<td align="center">10.1%</td>
 												<td>Leonardo</td>
 												<td>&nbsp;</td>
 												<td>Semente</td>
@@ -651,10 +652,10 @@
 												<td>TMG 2383 IPRO</td>
 												<td align="center">S1</td>
 												<td>31/03/2022</td>
-												<td>23.550</td>
-												<td>9.330</td>
-												<td>14.220</td>
-												<td>10.1%</td>
+												<td align="right">23.550</td>
+												<td align="right">9.330</td>
+												<td align="right">14.220</td>
+												<td align="center">10.1%</td>
 												<td>Leonardo</td>
 												<td>&nbsp;</td>
 												<td>Semente</td>
@@ -665,10 +666,10 @@
 												<td>TMG 2383 IPRO</td>
 												<td align="center">S1</td>
 												<td>31/03/2022</td>
-												<td>26.060</td>
-												<td>9.330</td>
-												<td>16.730</td>
-												<td>12.2%</td>
+												<td align="right">26.060</td>
+												<td align="right">9.330</td>
+												<td align="right">16.730</td>
+												<td align="center">12.2%</td>
 												<td>Leonardo</td>
 												<td>&nbsp;</td>
 												<td>Semente</td>
@@ -679,10 +680,10 @@
 												<td>TMG 2383 IPRO</td>
 												<td align="center">S1</td>
 												<td>31/03/2022</td>
-												<td>26.880</td>
-												<td>9.330</td>
-												<td>17.550</td>
-												<td>12.2%</td>
+												<td align="right">26.880</td>
+												<td align="right">9.330</td>
+												<td align="right">17.550</td>
+												<td align="center">12.2%</td>
 												<td>Leonardo</td>
 												<td>&nbsp;</td>
 												<td>Semente</td>
@@ -693,10 +694,10 @@
 												<td>TMG 2383 IPRO</td>
 												<td align="center">S1</td>
 												<td>31/03/2022</td>
-												<td>23.370</td>
-												<td>9.330</td>
-												<td>14.040</td>
-												<td>12.2%</td>
+												<td align="right">23.370</td>
+												<td align="right">9.330</td>
+												<td align="right">14.040</td>
+												<td align="center">12.2%</td>
 												<td>Leonardo</td>
 												<td>&nbsp;</td>
 												<td>Semente</td>
@@ -707,10 +708,10 @@
 												<td>TMG 2383 IPRO</td>
 												<td align="center">S1</td>
 												<td>31/03/2022</td>
-												<td>23.910</td>
-												<td>9.330</td>
-												<td>14.580</td>
-												<td>12.2%</td>
+												<td align="right">23.910</td>
+												<td align="right">9.330</td>
+												<td align="right">14.580</td>
+												<td align="center">12.2%</td>
 												<td>Leonardo</td>
 												<td>&nbsp;</td>
 												<td>Semente</td>
@@ -721,10 +722,10 @@
 												<td>TMG 2383 IPRO</td>
 												<td align="center">S1</td>
 												<td>31/03/2022</td>
-												<td>18.840</td>
-												<td>9.330</td>
-												<td>9.510</td>
-												<td>12.0%</td>
+												<td align="right">18.840</td>
+												<td align="right">9.330</td>
+												<td align="right">9.510</td>
+												<td align="center">12.0%</td>
 												<td>Leonardo</td>
 												<td>&nbsp;</td>
 												<td>Semente</td></td>

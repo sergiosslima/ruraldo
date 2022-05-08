@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="ThemeMakker">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
-    <title>Sementes Limoeiro</title>
+    <title>Ruraldo – Sementes Limoeiro</title>
     <link rel="stylesheet" href="assets/vendor/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="assets/vendor/fontawesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/main.css" type="text/css">
